@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "lewis hamilton",
+    "country": "united kingdom",
+    "birthDate": "1985-04-23T13:45:00.000Z",
+    "retireDate": "1985-04-23T13:45:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "sergio (checo) pérez",
+    "country": "méxico",
+    "birthDate": "1985-04-23T13:45:00.000Z",
+    "retireDate": "1985-04-23T13:45:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "juan pablo montoya",
+    "country": "colombia",
+    "birthDate": "1985-04-23T13:45:00.000Z",
+    "retireDate": "2005-04-23T13:45:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "michael schumacher",
+    "country": "germany",
+    "birthDate": "1985-04-23T13:45:00.000Z",
+    "retireDate": "2011-04-23T13:45:00.000Z"
+  }
+]
